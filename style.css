@@ -9,7 +9,19 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #A0A0A0;
-    color: #0E0E0E;
+    background-color: #222222;
+    color: #ffffff;
     text-align: center;
+  }
+
+  .url-button a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  .url-button {
+    width: fit-content;
+    padding: 5px;
+    border-radius: 25px;
+    background-color: #222222;
   }
